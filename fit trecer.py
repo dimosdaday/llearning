@@ -109,4 +109,4 @@ def show_message(list):
 
 show_message(ttl_stps(storage_data))
 
-print('Hellou WORLD')
+print('Hellou WORLD , комиты кто они')
